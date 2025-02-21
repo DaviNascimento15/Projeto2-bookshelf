@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 600px
+}
+
+.button-registration {
+  border-radius: 50px;
+  width: 120px;
+  height: 35px;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+.genre-button {
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 20px;
+  background-color: hsl(212, 72%, 59%);
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+.center-container1 {
+  text-align: center;
+}
+.center-container2{
+  text-align: center;
+  
+}
+.more-button {
+  color: #ffffff;
+  background-color: black;
+  border-radius: 20px;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 9px;
+}
+
+.footer {
+  text-align: center;
+  color: #ffffff;
+  background-color: black;
+  font-size: 15px;
+}
